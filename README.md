@@ -11,7 +11,7 @@ Required Packages
 Goal
 Due to the recent boost in AI world, companies have started researching the possibility of using machine learning in place of tranditional approach.
 
-Tuning traditional algorithms takes a significant amount of effords and domain expertise as well.
+Tuning traditional algorithms takes a significant amount of efforts and domain expertise as well.
 
 In this repo, we are trying to figure out a way of predict the same using machine learning algorithms.
 
@@ -20,7 +20,8 @@ The dataset comprised of units sold on a daily basis along with details regardin
 
 record_ID, week, store_id, sku_id, total_price, base_price, is_featured_sku, is_display_sku, units_sold
 
-## Workflow:-
+## Workflow
+```bash
 Handling missing values
 Feature selection
 Converting dataset into time series format to apply supervised learning approach.
@@ -30,7 +31,7 @@ XGBoost
 SVM (future scope)
 Hyperparameter Tuning
 Result
-
+```
 
 ### Required Packages
 ```bash
