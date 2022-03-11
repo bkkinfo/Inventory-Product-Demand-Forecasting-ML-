@@ -5,10 +5,12 @@ Usually organisations follow tranditional forecasting techniques/algorithms such
 
 
 ## Table of Contents
+```bash
 Goal
 Workflow
 Required Packages
 Goal
+````
 Due to the recent boost in AI world, companies have started researching the possibility of using machine learning in place of tranditional approach.
 
 Tuning traditional algorithms takes a significant amount of efforts and domain expertise as well.
