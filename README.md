@@ -1,4 +1,3 @@
-# Inventory-Product-Demand-Forecasting-ML-
 ## Inventory Forecasting using Machine Learning
 ### Inventory forecasting is the process of making estimations about future customer demand over a defined period, using historical data and other information.
 
