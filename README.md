@@ -11,7 +11,7 @@ Workflow
 Required Packages
 Goal
 ````
-Due to the recent boost in AI world, companies have started researching the possibility of using machine learning in place of tranditional approach.
+Due to the recent boost in AI world, companies have started researching the possibility of using machine learning/Neural Networks in place of tranditional approach.
 
 Tuning traditional algorithms takes a significant amount of efforts and domain expertise as well.
 
